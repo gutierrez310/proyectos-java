@@ -13,11 +13,5 @@ public class main {
         System.out.print("\nNumero en binario:\n\t");
         db.Binario(valorDecimal);
     }
-    
-//    public static void DecimalBinario(string s) {
-//        System.out.println(s+"!");
-//    }
-    
-
 
 }
